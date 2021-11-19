@@ -9,7 +9,6 @@
     isset($_POST['fldPassword'])?
       $uPassword = $_POST['fldPassword'] : $uPassword = "";
     $uPassword = hash("sha512", $uPassword . "kDl*63(7");
-
     openDB();
     $query =
       "
@@ -64,7 +63,7 @@
 					<button type="button" class="btn btn-primary btn-lg" onclick="do_login()">Login</button>
 				</div>        
 				<div class="row justify-content-md-center pt-2">
-          <button type="button" class="btn btn-default btn-sm" onclick="loadURL('reg.php')">Register</button>
+          <button type="button" class="btn btn-default btn-sm" onclick="loadURL('register.php')">Register</button>
 				</div>
 				<input type="hidden" name="a" value="doLogin">
 			</div>

@@ -19,9 +19,6 @@
       <div class="row pl-3 pr-3">
         <input type="text" class=" col form-control" placeholder="Search..." id="txtSearch" name="txtSearch"  value="<?PHP echo $txtSearch; ?>" >
         <button type="submit" class="btn btn-secondary" id="btnSearch">Search</button>
-        <?PHP if($isAdmin){?>
-          <!-- <button type="button"  class="btn btn-primary" onclick="loadURL('reg.php')" id="btnAddRec">Add</button> -->
-        <?PHP } ?>
       </div>
     </div>
     <input type="hidden" name="a" value="search">
