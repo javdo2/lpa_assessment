@@ -86,14 +86,21 @@
     </div>
     <script>
       getTotal();
+      /**
+      * Re-calculate the total of the table
+      */
       function getTotal(){
         var total = 0
-        $(".total").each((value,element)=>{
-          total += parseFloat(element.textContent);
+        $(".total").each((value,element)=>{ // iterate the elements that contain total as class
+          total += parseFloat(element.textContent);// add the textContent that have the total of the row to an adder
         })
         $("#tableTotal").html(total);
         setTotal(total);
       }
+      /**
+      * Update the value total of the row, trigger the method to calculate the total of the table 
+      * and also trigger the function to update the cookies
+      */
       function qtyChanged(id,price){
         let qty = $("#fldQTY-"+id).val();
         if(qty < 0 ){
@@ -101,8 +108,8 @@
           qty = 0;
         }
         $("#fldTotal-"+id).html(price*qty);
-        addToCart(id,false);
-        getTotal();
+        addToCart(id,false); // update the cookies
+        getTotal(); // refresh the total
       }
     </script>
 </div>

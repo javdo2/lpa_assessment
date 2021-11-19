@@ -78,6 +78,9 @@
       </div>
     </div>
     <script>
+      /**
+      * Update the value total in the table and also trigger the function to update the cookies
+      */
       function qtyChanged(id,price){
         let qty = $("#fldQTY-"+id).val();
         if(qty < 0 ){
@@ -85,7 +88,7 @@
           qty = 0;
         }
         $("#fldTotal-"+id).html(price*qty);
-        addToCart(id,false);
+        addToCart(id,false); // update the cookies
       }
     </script>
 </div>

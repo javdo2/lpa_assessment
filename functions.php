@@ -2,6 +2,11 @@
 $authChk = true;
 $noScriptLoad = true;
 require('app-lib.php');
+/**
+ * Called when an user clicks add to cart button and save in the cookies an
+ * array with the id of the item and the quantity 
+ * the Response is the message to show to the user
+ */
 if($_GET['action'] == 'addToCart')
 {
     $id = $_POST['id'];
@@ -20,6 +25,11 @@ if($_GET['action'] == 'addToCart')
     }
     setcookie('cart', json_encode($cart));
 }
+/**
+ * Called when an user clicks remove in cart page and update in the cookies array 
+ * deleting the item using the id 
+ * the Response is the message to show to the user
+ */
 if($_GET['action'] == 'removeFromCart')
 {
     $id = $_POST['id'];
@@ -31,12 +41,17 @@ if($_GET['action'] == 'removeFromCart')
     echo "Item: " . $id . " has been removed";
     lpa_log("User $displayName remove Item from cart: ".$id);
 }
-
+/**
+ * Clear the cookie used to show the cart
+ */
 if($_GET['action'] == 'clearCart')
 {
     setcookie('cart', null);
     setcookie('total', null);
 }
+/**
+ * Save a cookie containing the total of the cart in order to be showed in the checkout payment
+ */
 if($_GET['action'] == 'setTotal')
 {
     setcookie('total', $_POST['total']);
