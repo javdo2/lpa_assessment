@@ -7,6 +7,7 @@
 <div class="row w-100">
   <?PHP build_navBlock(); ?>
   <div id="content"  class=" content col">
+    <form name="frmPayment" id="frmPayment" method="post" action="paymentCompleted.php">
     <div class="sectionHeader"><h3>Checkout</h3></div>
 <?PHP
       $cart = isset($_COOKIE['cart']) && $_COOKIE['cart'] != null && $_COOKIE['cart'] != '' ? json_decode($_COOKIE['cart'], true) : [];
@@ -48,10 +49,10 @@
             <label for="fldphone" class="col-3 col-form-label text-right">Payment:</label>
             <div class="col-6">
               <select class="form-control" name="fldPayOpt" id="fldPayOpt">
-                <option value="ppl">PayPal</option>
-                <option value="visa">VISA</option>
-                <option value="mastc">MasterCard</option>
-                <option value="dirdep">Direct deposit</option>
+                <option value="PayPal">PayPal</option>
+                <option value="VISA">VISA</option>
+                <option value="MasterCard">MasterCard</option>
+                <option value="Direct deposit">Direct deposit</option>
               </select>
             </div>
           </div>          
@@ -71,26 +72,12 @@
         </button>
         <button
           class="btn btn-success btn-lg"
-          type="button"
-          onclick="loadURL('paymentCompleted.php')">
+          type="submit">
           Pay Now
         </button>
       </div>
+    </form>
     </div>
-    <script>
-      /**
-      * Update the value total in the table and also trigger the function to update the cookies
-      */
-      function qtyChanged(id,price){
-        let qty = $("#fldQTY-"+id).val();
-        if(qty < 0 ){
-          $("#fldQTY-"+id).val(0);
-          qty = 0;
-        }
-        $("#fldTotal-"+id).html(price*qty);
-        addToCart(id,false); // update the cookies
-      }
-    </script>
 </div>
 <?PHP
   build_footer();

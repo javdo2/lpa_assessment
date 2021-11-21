@@ -29,7 +29,6 @@ function addToCart(id,showAlert = true) {
 		{
 			if(showAlert)
 				alert(datos);
-			//alert(qty + " x Item: " + id + " has been added to your cart");
 		}
 
 	});

@@ -16,7 +16,7 @@
         lpa_user_ID,
         lpa_user_username,
         lpa_user_password,
-		lpa_user_group
+		    lpa_user_group
       FROM
         lpa_users
       WHERE
@@ -24,9 +24,10 @@
       AND
         lpa_user_password = '$uPassword'
       AND
-        lpa_user_group = 'user'
+        lpa_user_group = 'administrator'
       LIMIT 1
       ";
+      echo $query;
     $result = $db->query($query);
     $row = $result->fetch_assoc();
     if($row['lpa_user_username'] == $uName) {
@@ -48,9 +49,9 @@
  build_header();
 ?>
 <div id="contentLogin">
-	<form name="frmLogin" id="frmLogin" method="post" action="login.php">
+	<form name="frmLogin" id="frmLogin" method="post" action="admin_login.php">
 		<div class="card bg-light mb-5" style="max-width: 40rem;">
-			<div class="card-header titleBar text-center p-3"><h4>Customer Login</h4></div>
+			<div class="card-header titleBar text-center p-3"><h4>User Login</h4></div>
 			<div class="card-body">
 				<div class="msgTitle">Please supply your login details:</div>
 				<div class="form-group">
@@ -63,9 +64,6 @@
 				</div>
 				<div class="row justify-content-md-center">
 					<button type="button" class="btn btn-primary btn-lg" onclick="do_login()">Login</button>
-				</div>        
-				<div class="row justify-content-md-center pt-2">
-          <button type="button" class="btn btn-default btn-sm" onclick="loadURL('register.php')">Register</button>
 				</div>
 				<input type="hidden" name="a" value="doLogin">
 			</div>
@@ -74,9 +72,9 @@
 </div>
 <script>
   var msg = "<?PHP echo $msg; ?>";
-  if(msg) {
+  /*if(msg) {
     alert(msg);
-  }
+  }*/
   $( "#contentLogin").center().cs_draggable({
       handle : ".titleBar",
       containment : "window"

@@ -466,3 +466,1319 @@ LOG - IP address: 192.168.56.1 -
 19/11/2021 00:21:11: User Javier Leon access to checkout page
 --------------------------
 
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 02:02:39: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 02:02:41: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 02:02:51: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 02:03:28: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 02:03:31: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 13:56:34: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 13:56:35: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 13:56:37: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 13:57:03: User  Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:01:17: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:02:43: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:02:43: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:02:44: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:02:48: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:06:30: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:07:08: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:07:09: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:09:18: User Javier Leon updated Item on cart: 128 X 1
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:09:19: User Javier Leon added Item to cart: 278 X 1
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:09:21: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:10:26: User Javier Leon access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:11:21: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:29:36: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:29:50: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:30:33: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:32:35: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:18: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:18: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:19: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:22: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:24: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:28: User Javier Leon added Item to cart: 128 X 3
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:30: User Javier Leon added Item to cart: 278 X 2
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:32: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:35: User Javier Leon remove Item from cart: 278
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:36: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:37: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:37: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:41: User Javier Leon added Item to cart: 125 X 5
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:36:43: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:38:52: User Javier Leon access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:39:41: User Javier Leon access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:41:33: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:41:35: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:41:40: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:41:43: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:43:37: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:03: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:10: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:14: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:24: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:32: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:39: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:48:48: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:49:03: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:49:14: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:49:25: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:49:27: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:49:54: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:49:59: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:50:27: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:50:33: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:50:37: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 14:50:38: User Javier Leon completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:10: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:10: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:12: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:13: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:18: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:19: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:21: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:29: User Javier Leon added Item to cart: 128 X 11
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:47: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:47: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:02:49: User Javier Leon access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:04: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:11: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:11: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:13: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:16: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:17: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:19: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:22: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:22: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:23: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:25: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+19/11/2021 15:03:26: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:51:41: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:51:43: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:54:22: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:54:50: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:55:26: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:55:39: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:56:36: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:56:38: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:57:02: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:57:24: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:57:24: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:57:28: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:10: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:17: User  access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:17: User  access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:25: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:25: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:27: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:36: User admin Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:38: User  access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:38: User  access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:41: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:58:41: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:59:50: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:59:50: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+20/11/2021 23:59:53: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:00:02: User user Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:00:42: User user Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:00:46: User user Failed to Log in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:00:58: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:00:58: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:00: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:00: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:01: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:04: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:05: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:06: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:10: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:10: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:01:13: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:54:41: User access to register page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 00:54:41: User asdasd created
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:21:57: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:21:57: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:21:59: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:22:00: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:22:02: User Camila Martin added Item to cart: 128 X 3
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:22:03: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:22:05: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:26:07: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:26:07: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:18: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:20: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:23: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:24: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:25: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:26: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:30: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:31: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:35: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:27:35: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:28:06: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:28:07: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:28:09: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:28:11: User Camila Martin added Item to cart: 128 X 3
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:28:12: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:34:51: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:34:54: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:34:54: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:37:27: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:37:27: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:37:45: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:06: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:36: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:36: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:53: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:53: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:55: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:55: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:56: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:38:56: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:40:34: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:40:34: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:40:39: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:40:39: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:46:32: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:46:39: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:46:39: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:46:42: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:46:43: User Javier Leon access to edit the sale: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:46:50: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:52:26: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:52:26: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:52:29: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:52:30: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:52:32: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:52:36: User Javier Leon access to edit the sale: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:16: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:25: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:25: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:28: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:29: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:32: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:32: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:47: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:53:47: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:22: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:22: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:34: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:34: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:48: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:48: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:52: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:52: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:57: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:57: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:58: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:54:58: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:55:26: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:55:26: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:55:35: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:55:54: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:55:54: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:56:09: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:56:09: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:58:17: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 01:58:17: Error saving payment user: Camila Martin
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:09: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:09: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:28: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:28: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:36: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:37: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:37: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:38: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:00:39: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:01:15: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:01:27: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:01:46: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:01:46: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:04:24: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:04:24: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:53:21: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:53:21: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:53:23: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:56:52: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 02:56:53: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:01:42: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:13: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:13: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:14: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:15: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:16: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:19: User Camila Martin added Item to cart: 128 X 1
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:05:50: User Camila Martin updated Item on cart: 128 X 5
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:12: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:15: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:16: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:20: User Camila Martin added Item to cart: 125 X 4
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:22: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:37: User Camila Martin remove Item from cart: 128
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:06:48: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:13:49: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:18:32: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 03:18:32: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:16:35: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:16:35: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:16:38: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:16:41: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:16:57: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:17:16: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:18:54: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:18:54: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:18:56: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:18:57: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:18:58: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:19:00: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:19:17: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:19:17: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:19:21: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:19:21: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:19:34: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:20:00: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:20:00: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:20:02: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:20:03: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:20:04: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:21:03: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:21:55: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:21:55: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:05: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:07: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:09: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:12: User Javier Leon access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:17: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:18: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:19: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:22:22: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:24:15: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:24:15: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:24:17: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:24:18: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:24:20: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:25:04: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:25:04: User Javier Leon stock created
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:25:04: User Javier Leon access to Stock page searching: 357
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:25:04: User Javier Leon access to Stock page searching: 357
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:25:31: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:26:17: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:26:17: User Javier Leon stock created
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:26:17: User Javier Leon access to Stock page searching: 644
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 12:26:17: User Javier Leon access to Stock page searching: 644
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:17:59: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:17:59: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:18:02: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:18:03: User Javier Leon access to edit the stock: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:18:08: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:18:11: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:20:26: User Javier Leon access to edit the sale: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:20:47: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:20:47: User Javier Leon access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:20:50: User Javier Leon access to Stock page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:20:52: User Javier Leon access to Sales page.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:20:53: User Javier Leon access to edit the sale: 
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:30:03: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:30:04: User  Logged out
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:32:50: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:32:50: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:34:02: User  successfully logged in.
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:34:02: User Camila Martin access to Index page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:34:51: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:34:52: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:36:40: User Camila Martin added Item to cart: 128 X 1
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:36:57: User Camila Martin access to checkout page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:36:59: User Camila Martin updated Item on cart: 128 X 2
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:36:59: User Camila Martin updated Item on cart: 128 X 3
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:38:02: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:38:17: User Camila Martin access to checkout payment page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:39:17: User Camila Martin completed a payment
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:39:17: User Camila Martin payment successful
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:40:28: User Camila Martin access to products page
+--------------------------
+
+LOG - IP address: 192.168.56.1 - 
+21/11/2021 16:40:32: User  Logged out
+--------------------------
+

@@ -13,7 +13,7 @@ date_default_timezone_set('Australia/Queensland');
 // Database instance variable
 $db = null;
 $displayName = "";
-
+$userId = null;
 
 // Start the session
 session_name("lpaecomms");
@@ -33,6 +33,7 @@ if(isset($authChk) == true) {
     $result = $db->query($query);
     $row = $result->fetch_assoc();
     $displayName = $row['lpa_user_firstname']." ".$row['lpa_user_lastname'];
+    $userId = $row['lpa_user_ID'];
   } else {
     header("location: login.php");
   }
@@ -103,6 +104,9 @@ if(isset($_REQUEST['killses']) == "true") {
   }
   lpa_log("User $displayName Logged out");
   session_destroy();
+  if($isAdmin)
+  header("location: admin_login.php");
+  else
   header("location: login.php");
 }
 
@@ -114,6 +118,7 @@ if(isset($_REQUEST['killses']) == "true") {
  */
 function build_header() {
   global $displayName;
+  global $userId;
 
   include 'header.php';
 }
@@ -131,17 +136,19 @@ function build_navBlock() {
 		<div class="list-group">
 			<li class="list-group-item list-group-item-dark text-center"><h5><b>MAIN MENU</b></h5></li>
 			<a href="index.php" class="list-group-item menu-item list-group-item-action active" data-ref="index">HOME</a>
+      <?PHP if($isAdmin) { ?>
 			<a href="stock.php" class="list-group-item menu-item list-group-item-action " data-ref="stock">STOCK</a>
 			<a href="sales.php" class="list-group-item menu-item list-group-item-action " data-ref="sales">SALES/INVOICES</a>
+      <?PHP } ?>
 			<a href="products.php" class="list-group-item menu-item list-group-item-action " data-ref="products">PRODUCTS</a>
 			<a href="checkout.php" class="list-group-item menu-item list-group-item-action " data-ref="checkout">CHECKOUT</a>
-			<?PHP
-				if($isAdmin) {
-				?>
+			<?PHP if($isAdmin) { ?>
 				<div class="menuSep"></div>
 				<li class="list-group-item list-group-item-dark text-center"><b>Administration</b></li>
-			<?PHP } ?>
-			<a href="#" onclick="navMan('login.php?killses=true')" class="list-group-item menu-item list-group-item-action " data-ref="logout">LOGOUT</a>
+        <a href="#" onclick="navMan('admin_login.php?killses=true')" class="list-group-item menu-item list-group-item-action " data-ref="logout">LOGOUT</a>
+        <?PHP } else {?>
+          <a href="#" onclick="navMan('login.php?killses=true')" class="list-group-item menu-item list-group-item-action " data-ref="logout">LOGOUT</a>
+        <?PHP } ?>
 		</div>
 	</div>
 	
@@ -189,7 +196,8 @@ function lpa_log($log_msg)
     mkdir($log_filename, 0777, true);
   }
   $log_file_data = $log_filename.'/lpalog.log';
-  $log_msg = "LOG - IP address: " . $_SERVER['REMOTE_ADDR'] . ' - ' . PHP_EOL . date('d/m/Y H:i:s') . ": {$log_msg}" . PHP_EOL . "--------------------------" . PHP_EOL;
+  $log_msg = "LOG - IP address: " . $_SERVER['REMOTE_ADDR'] . ' - ' . PHP_EOL . date('d/m/Y H:i:s') . ": {$log_msg}" . 
+  PHP_EOL . "--------------------------" . PHP_EOL;
   file_put_contents($log_file_data, $log_msg . "\n", FILE_APPEND);
 }
 ?>
